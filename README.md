@@ -17,8 +17,15 @@ A curated list of software testing conferences worldwide sorted by country - cli
             <td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/jp.svg" width="13px"/>&nbsp;Japan</td>
             <td>1</td>
             <td><a href="https://tokyotestfest.com/en/">Tokyo Test Fest</a></td>
-            <td>15 November, 2024</td>
+            <td>November 15, 2024</td>
             <td>KFC Hall, Tokyo, Japan</td>
+        </tr>
+        <tr>
+            <td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/gb-sct.svg" width="13px"/>&nbsp;Scotland</td>
+            <td>1</td>
+            <td><a href="https://conference.eurostarsoftwaretesting.com/">EuroSTAR</a></td>
+            <td>June 3-6, 2025</td>
+            <td>150 Morrison St, Edinburgh, Scotland, United Kingdom</td>
         </tr>
         <tr>
             <td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/de.svg" width="13px"/>&nbsp;Germany</td>
