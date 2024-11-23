@@ -20,6 +20,13 @@ A curated list of software testing conferences worldwide sorted by country - cli
             <td>15 November, 2024</td>
             <td>KFC Hall, Tokyo, Japan</td>
         </tr>
+        <tr>
+            <td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/de.svg" width="13px"/>&nbsp;Germany</td>
+            <td>1</td>
+            <td><a href="https://agiletestingdays.com/">Agile Testing Days</a></td>
+            <td>November 24–27, 2025</td>
+            <td>Jägerallee 20, Potsdam, Germany</td>
+        </tr>
     </tbody>
 </table>
 
