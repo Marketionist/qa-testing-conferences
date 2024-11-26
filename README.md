@@ -28,6 +28,13 @@ A curated list of software testing conferences worldwide sorted by country - cli
             <td>150 Morrison St, Edinburgh, Scotland, United Kingdom</td>
         </tr>
         <tr>
+            <td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/nl.svg" width="13px"/>&nbsp;Netherlands</td>
+            <td>1</td>
+            <td><a href="https://automation.eurostarsoftwaretesting.com/">AutomationSTAR</a></td>
+            <td>November 10–11, 2025</td>
+            <td>Amsterdam, Netherlands</td>
+        </tr>
+        <tr>
             <td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/de.svg" width="13px"/>&nbsp;Germany</td>
             <td>1</td>
             <td><a href="https://agiletestingdays.com/">Agile Testing Days</a></td>
