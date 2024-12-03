@@ -31,14 +31,14 @@ A curated list of software testing conferences worldwide sorted by country - cli
             <td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/nl.svg" width="20px" height="20px"/>&nbsp;Netherlands</td>
             <td>1</td>
             <td><a href="https://automation.eurostarsoftwaretesting.com/">AutomationSTAR</a></td>
-            <td>November 10–11, 2025</td>
+            <td>November 10-11, 2025</td>
             <td>Amsterdam, Netherlands</td>
         </tr>
         <tr>
             <td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/de.svg" width="20px" height="20px"/>&nbsp;Germany</td>
             <td>1</td>
             <td><a href="https://agiletestingdays.com/">Agile Testing Days</a></td>
-            <td>November 24–27, 2025</td>
+            <td>November 24-27, 2025</td>
             <td>Jägerallee 20, Potsdam, Germany</td>
         </tr>
         <tr>
@@ -47,6 +47,13 @@ A curated list of software testing conferences worldwide sorted by country - cli
             <td><a href="https://www.apidays.global/helsinki_and_north/">Apidays Helsinki & North</a></td>
             <td>June 3-4, 2025</td>
             <td>Helsinki, Finland</td>
+        </tr>
+        <tr>
+            <td rowspan="2"><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/us.svg" width="20px" height="20px"/>&nbsp;United&nbsp;States</td>
+            <td>1</td>
+            <td><a href="https://www.apidays.global/new-york/">Apidays New York</a></td>
+            <td>May 14-15, 2025</td>
+            <td>360 Madison Ave, New York, United States</td>
         </tr>
     </tbody>
 </table>
