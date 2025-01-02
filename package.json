@@ -1,0 +1,34 @@
+{
+  "name": "qa-testing-conferences",
+  "version": "1.0.0",
+  "description": "A curated list of software testing conferences worldwide sorted by country",
+  "main": "README.md",
+  "engines": {
+    "node": ">=8.x.x"
+  },
+  "scripts": {
+    "lint": "node ./node_modules/.bin/eslint tests/**/*.js",
+    "patch": "npm version patch -m \"Bumped up package version to %s\" && git push && git push origin --tags && npm publish",
+    "minor": "npm version minor -m \"Bumped up package version to %s\" && git push && git push origin --tags && npm publish",
+    "major": "npm version major -m \"Bumped up package version to %s\" && git push && git push origin --tags && npm publish",
+    "test": "node ./tests/links.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Marketionist/qa-testing-conferences"
+  },
+  "keywords": [
+    "testing conferences",
+    "QA conferences",
+    "testing conferences list",
+    "QA conferences list",
+    "QA testing conferences",
+    "QA testing conferences list"
+  ],
+  "author": "Dmytro Shpakovskyi",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^8.57.1",
+    "img-link-checker": "^1.2.0"
+  }
+}
