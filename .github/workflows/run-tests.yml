@@ -12,15 +12,10 @@ on:
         - info
         - warning
         - debug
-  # Trigger the workflow on pull request (only for the master branch)
-  # push:
-  #   branches:
-  #     - '**'
-  #   paths-ignore:
-  #     - '**/media/**'
+  # Trigger the workflow on pull request (only for the main branch)
   pull_request:
     branches:
-      - master
+      - main
     paths-ignore:
       - '**/media/**'
 
