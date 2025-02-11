@@ -1,7 +1,7 @@
 {
   "name": "qa-testing-conferences",
   "version": "1.0.0",
-  "description": "A curated list of software testing conferences worldwide sorted by country",
+  "description": "Curated list of software testing conferences worldwide sorted by country",
   "main": "README.md",
   "engines": {
     "node": ">=8.x.x"
