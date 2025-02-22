@@ -63,7 +63,7 @@ A curated list of software testing conferences worldwide sorted by country - cli
             <td>Jägerallee 20, Potsdam, Germany</td>
         </tr>
         <tr>
-            <td rowspan="2"><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/us.svg" width="20px" height="20px"/>&nbsp;United&nbsp;States</td>
+            <td rowspan="3"><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/us.svg" width="20px" height="20px"/>&nbsp;United&nbsp;States</td>
             <td>1</td>
             <td><a href="https://www.postman.com/postcon/" target="_blank">POST/CON</a></td>
             <td>To be announced</td>
@@ -74,6 +74,12 @@ A curated list of software testing conferences worldwide sorted by country - cli
             <td><a href="https://www.apidays.global/new-york/" target="_blank">Apidays New York</a></td>
             <td>May 14-15, 2025</td>
             <td>360 Madison Ave, New York, United States</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td><a href="https://innovateqaevents.com/" target="_blank">Innovate QA</a></td>
+            <td>June 5, 2025</td>
+            <td>1800 Northwest Gilman Boulevard, Issaquah (15 miles from central Seattle), Washington, United States</td>
         </tr>
         <tr>
             <td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/ee.svg" width="20px" height="20px"/>&nbsp;Estonia</td>
