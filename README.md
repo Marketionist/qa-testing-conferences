@@ -95,6 +95,13 @@ A curated list of software testing conferences worldwide sorted by country - cli
             <td>February 7-8, 2025</td>
             <td>HARPA Conference Centre, Reykjavík, Iceland</td>
         </tr>
+        <tr>
+            <td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/bg.svg" width="20px" height="20px"/>&nbsp;Bulgaria</td>
+            <td>1</td>
+            <td><a href="https://qachallengeaccepted.com/" target="_blank">QA: Challenge Accepted</a></td>
+            <td>September 27, 2025</td>
+            <td>John Atanasoff Forum, Sofia Tech Park, Sofia, Bulgaria</td>
+        </tr>
     </tbody>
 </table>
 
