@@ -63,7 +63,7 @@ A curated list of software testing conferences worldwide sorted by country - cli
             <td>Jägerallee 20, Potsdam, Germany</td>
         </tr>
         <tr>
-            <td rowspan="3"><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/us.svg" width="20px" height="20px"/>&nbsp;United&nbsp;States</td>
+            <td rowspan="4"><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/us.svg" width="20px" height="20px"/>&nbsp;United&nbsp;States</td>
             <td>1</td>
             <td><a href="https://www.postman.com/postcon/" target="_blank">POST/CON</a></td>
             <td>To be announced</td>
@@ -80,6 +80,12 @@ A curated list of software testing conferences worldwide sorted by country - cli
             <td><a href="https://innovateqaevents.com/" target="_blank">Innovate QA</a></td>
             <td>June 5, 2025</td>
             <td>1800 Northwest Gilman Boulevard, Issaquah (15 miles from central Seattle), Washington, United States</td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td><a href="https://stareast.techwell.com/" target="_blank">STAREAST</a></td>
+            <td>April 26 - May 1, 2026</td>
+            <td>9840 International Dr, Orlando, Florida, United States</td>
         </tr>
         <tr>
             <td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/ee.svg" width="20px" height="20px"/>&nbsp;Estonia</td>
