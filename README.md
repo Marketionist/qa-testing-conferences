@@ -70,6 +70,13 @@ A curated list of software testing conferences worldwide sorted by country - cli
             <td>Jägerallee 20, Potsdam, Germany</td>
         </tr>
         <tr>
+            <td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/gb.svg" width="20px" height="20px"/>&nbsp;United Kingdom</td>
+            <td>1</td>
+            <td><a href="https://nationalsoftwaretestingconference.co.uk/" target="_blank">National Software Testing Conference</a></td>
+            <td>July 22-23, 2025</td>
+            <td>61-65 Great Queen St, London, United Kingdom</td>
+        </tr>
+        <tr>
             <td rowspan="5"><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/us.svg" width="20px" height="20px"/>&nbsp;United&nbsp;States</td>
             <td>1</td>
             <td><a href="https://www.postman.com/postcon/" target="_blank">POST/CON</a></td>
