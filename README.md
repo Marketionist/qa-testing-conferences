@@ -56,11 +56,16 @@ A curated list of software testing conferences worldwide sorted by country - cli
             <td>417 Avenida Duque de Ávila, Lisboa, Portugal</td>
         </tr>
         <tr>
-            <td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/nl.svg" width="20px" height="20px"/>&nbsp;Netherlands</td>
+            <td rowspan="2"><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/nl.svg" width="20px" height="20px"/>&nbsp;Netherlands</td>
             <td>1</td>
             <td><a href="https://automation.eurostarsoftwaretesting.com/" target="_blank">AutomationSTAR</a></td>
             <td>November 10-11, 2025</td>
             <td>Amsterdam, Netherlands</td>
+        </tr>
+        <tr>
+            <td><a href="https://www.testautomationdays.com/" target="_blank">Test Automation Days</a></td>
+            <td>March 4-5, 2026</td>
+            <td>Gooiland, Hilversum, Netherlands</td>
         </tr>
         <tr>
             <td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/de.svg" width="20px" height="20px"/>&nbsp;Germany</td>
@@ -70,7 +75,7 @@ A curated list of software testing conferences worldwide sorted by country - cli
             <td>Jägerallee 20, Potsdam, Germany</td>
         </tr>
         <tr>
-            <td rowspan="2"><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/gb.svg" width="20px" height="20px"/>&nbsp;United Kingdom</td>
+            <td rowspan="2"><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/gb.svg" width="20px" height="20px"/>&nbsp;United&nbsp;Kingdom</td>
             <td>1</td>
             <td><a href="https://nationalsoftwaretestingconference.co.uk/" target="_blank">National Software Testing Conference</a></td>
             <td>July 22-23, 2025</td>
