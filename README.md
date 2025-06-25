@@ -75,7 +75,7 @@ A curated list of software testing conferences worldwide sorted by country - cli
             <td>Jägerallee 20, Potsdam, Germany</td>
         </tr>
         <tr>
-            <td rowspan="2"><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/gb.svg" width="20px" height="20px"/>&nbsp;United&nbsp;Kingdom</td>
+            <td rowspan="3"><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/gb.svg" width="20px" height="20px"/>&nbsp;United&nbsp;Kingdom</td>
             <td>1</td>
             <td><a href="https://nationalsoftwaretestingconference.co.uk/" target="_blank">National Software Testing Conference</a></td>
             <td>July 22-23, 2025</td>
@@ -86,6 +86,12 @@ A curated list of software testing conferences worldwide sorted by country - cli
             <td><a href="https://www.ministryoftesting.com/events/testbash-brighton-2025" target="_blank">TestBash UK</a></td>
             <td>October 1-2, 2025</td>
             <td>Brighton Dome, Brighton, United Kingdom</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td><a href="https://testingpeerscon.com/" target="_blank">Testing Peers Conference</a></td>
+            <td>March 12, 2026</td>
+            <td>Easter Park Lenton Lane, Nottingham, United Kingdom</td>
         </tr>
         <tr>
             <td rowspan="5"><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/us.svg" width="20px" height="20px"/>&nbsp;United&nbsp;States</td>
