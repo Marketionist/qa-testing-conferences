@@ -63,6 +63,7 @@ A curated list of software testing conferences worldwide sorted by country - cli
             <td>Amsterdam, Netherlands</td>
         </tr>
         <tr>
+            <td>2</td>
             <td><a href="https://www.testautomationdays.com/" target="_blank">Test Automation Days</a></td>
             <td>March 4-5, 2026</td>
             <td>Gooiland, Hilversum, Netherlands</td>
@@ -75,7 +76,7 @@ A curated list of software testing conferences worldwide sorted by country - cli
             <td>Jägerallee 20, Potsdam, Germany</td>
         </tr>
         <tr>
-            <td rowspan="3"><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/gb.svg" width="20px" height="20px"/>&nbsp;United&nbsp;Kingdom</td>
+            <td rowspan="3"><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/gb.svg" width="20px" height="20px"/>&nbsp;UK</td>
             <td>1</td>
             <td><a href="https://nationalsoftwaretestingconference.co.uk/" target="_blank">National Software Testing Conference</a></td>
             <td>July 22-23, 2025</td>
@@ -94,7 +95,7 @@ A curated list of software testing conferences worldwide sorted by country - cli
             <td>Easter Park Lenton Lane, Nottingham, United Kingdom</td>
         </tr>
         <tr>
-            <td rowspan="6"><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/us.svg" width="20px" height="20px"/>&nbsp;United&nbsp;States</td>
+            <td rowspan="6"><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/us.svg" width="20px" height="20px"/>&nbsp;US</td>
             <td>1</td>
             <td><a href="https://www.postman.com/postcon/" target="_blank">POST/CON</a></td>
             <td>To be announced</td>
