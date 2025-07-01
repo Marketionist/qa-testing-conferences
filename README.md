@@ -95,7 +95,7 @@ A curated list of software testing conferences worldwide sorted by country - cli
             <td>Easter Park Lenton Lane, Nottingham, United Kingdom</td>
         </tr>
         <tr>
-            <td rowspan="6"><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/us.svg" width="20px" height="20px"/>&nbsp;US</td>
+            <td rowspan="7"><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/us.svg" width="20px" height="20px"/>&nbsp;US</td>
             <td>1</td>
             <td><a href="https://www.postman.com/postcon/" target="_blank">POST/CON</a></td>
             <td>To be announced</td>
@@ -130,6 +130,12 @@ A curated list of software testing conferences worldwide sorted by country - cli
             <td><a href="https://pnsqc.org/" target="_blank">Pacific Northwest Software Quality Conference (PNSQC)</a></td>
             <td>October 13-15, 2025</td>
             <td>University Place Hotel, Portland, Oregon, United States</td>
+        </tr>
+        <tr>
+            <td>7</td>
+            <td><a href="https://www.qaorthehwy.com/" target="_blank">QA or the Highway</a></td>
+            <td>June 27, 2025</td>
+            <td>Ohio Union, Columbus, Ohio, United States</td>
         </tr>
         <tr>
             <td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/ee.svg" width="20px" height="20px"/>&nbsp;Estonia</td>
