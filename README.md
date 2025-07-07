@@ -165,6 +165,13 @@ A curated list of software testing conferences worldwide sorted by country - cli
             <td>September 27, 2025</td>
             <td>John Atanasoff Forum, Sofia Tech Park, Sofia, Bulgaria</td>
         </tr>
+        <tr>
+            <td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/ch.svg" width="20px" height="20px"/>&nbsp;Switzerland</td>
+            <td>1</td>
+            <td><a href="https://www.greatestquality.ch/" target="_blank">GreaTest Quality Convention</a></td>
+            <td>May 23, 2025</td>
+            <td>Eventspace Kraftwerk, Zurich, Switzerland</td>
+        </tr>
     </tbody>
 </table>
 
