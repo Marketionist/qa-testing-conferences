@@ -1,7 +1,8 @@
-{
+module.exports = {
+    "root": true,
     "parserOptions": {
-        "ecmaVersion": 2018,
-        "sourceType": "commonjs"
+        "ecmaVersion": "latest",
+        "sourceType": "module"
     },
     "extends": [
         "eslint:recommended"
@@ -12,18 +13,23 @@
         "node": true
     },
     "globals": {
-        "module": true,
-        "process": true,
-        "expect": true,
-        "beforeEach": true,
-        "afterEach": true,
-        "beforeAll": true,
-        "afterAll": true,
-        "fixture": true,
-        "pending": true,
-        "EC": true
+        "module": "writable",
+        "process": "writable",
+        "expect": "writable",
+        "beforeEach": "writable",
+        "afterEach": "writable",
+        "beforeAll": "writable",
+        "afterAll": "writable",
+        "fixture": "writable",
+        "pending": "writable",
+        "EC": "writable"
     },
-    "root": true,
+    "ignorePatterns": [
+        "build",
+        "dist",
+        "node_modules",
+        ".eslintrc.js"
+    ],
     "rules": {
         // Possible Errors
         "comma-dangle": ["error", {
@@ -101,8 +107,7 @@
         "no-lone-blocks": "error",
         "no-loop-func": "error",
         "no-magic-numbers": ["error", {
-            "ignore": [0, -1, 1, 2, 8000, 9000],
-            "ignoreArrayIndexes": true
+            "ignore": [0, -1, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 64, 1000, 3000, 5000, 8000, 9000, 30000, 240000, 200, 201, 204, 400, 404]
         }],
         "no-multi-spaces": "error",
         "no-multi-str": "off",
@@ -225,4 +230,4 @@
         "no-bitwise": "error",
         "no-plusplus": "off"
     }
-}
+};
