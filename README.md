@@ -35,9 +35,15 @@ A curated list of software testing conferences worldwide sorted by country - cli
             <td>..., Scotland</td>
         </tr>
         <tr>
-            <td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/fi.svg" width="20px" height="20px"/>&nbsp;Finland</td>
+            <td rowspan="2"><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/fi.svg" width="20px" height="20px"/>&nbsp;Finland</td>
             <td>1</td>
-            <td><a href="https://www.apidays.global/helsinki_and_north/" target="_blank">Apidays Helsinki & North</a></td>
+            <td><a href="https://testingassembly.fistb.fi/seminar-2025/" target="_blank">Testing Assembly</a></td>
+            <td>November 20, 2025</td>
+            <td>Eteläinen Rautatiekatu 4, Helsinki, Finland</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td><a href="https://www.apidays.global/archive/2025/helsinki-north" target="_blank">Apidays Helsinki & North</a></td>
             <td>June 3-4, 2025</td>
             <td>Helsinki, Finland</td>
         </tr>
