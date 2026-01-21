@@ -48,6 +48,13 @@ A curated list of software testing conferences worldwide sorted by country - cli
             <td>Helsinki, Finland</td>
         </tr>
         <tr>
+            <td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/cz.svg" width="20px" height="20px"/>&nbsp;Czech Republic</td>
+            <td>1</td>
+            <td><a href="https://www.tesena.com/en/tesena-fest-2026/a-189/" target="_blank">Tesena Fest</a></td>
+            <td>September 25, 2026</td>
+            <td>Prague, Czech Republic</td>
+        </tr>
+        <tr>
             <td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/au.svg" width="20px" height="20px"/>&nbsp;Australia</td>
             <td>1</td>
             <td><a href="https://www.testingtalks.com.au/" target="_blank">Testing Talks</a></td>
