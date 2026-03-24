@@ -199,6 +199,13 @@ A curated list of software testing conferences worldwide sorted by country - cli
             <td>May 23, 2025</td>
             <td>Eventspace Kraftwerk, Zurich, Switzerland</td>
         </tr>
+        <tr>
+            <td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/hu.svg" width="20px" height="20px"/>&nbsp;Hungary</td>
+            <td>1</td>
+            <td><a href="https://hustef.hu/" target="_blank">HUSTEF Conference</a></td>
+            <td>October 6-8, 2026</td>
+            <td>Balatoni út 2/a, B épület 1, Budapest, Hungary</td>
+        </tr>
     </tbody>
 </table>
 
