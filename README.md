@@ -192,6 +192,13 @@ A curated list of software testing conferences worldwide sorted by country - cli
             <td>May 23, 2025</td>
             <td>Eventspace Kraftwerk, Zurich, Switzerland</td>
         </tr>
+        <tr>
+            <td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/dk.svg" width="20px" height="20px"/>&nbsp;Denmark</td>
+            <td>1</td>
+            <td><a href="https://www.testingunited.com/" target="_blank">Testing United</a></td>
+            <td>November 23-24, 2026</td>
+            <td>Tabakvejen, Copenhagen, Denmark</td>
+        </tr>
     </tbody>
 </table>
 
