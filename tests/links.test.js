@@ -4,7 +4,12 @@ const { checkFile, } = require('img-link-checker');
     const brokenLinks = await checkFile(
         './README.md',
         /* eslint-disable max-len */
-        ['https://stareast.techwell.com/', 'https://starwest.techwell.com/',]
+        [
+            'https://stareast.techwell.com/',
+            'https://starwest.techwell.com/',
+            'https://pnsqc.org/',
+            'https://hustef.hu/',
+        ]
         /* eslint-enable max-len */
     );
 
