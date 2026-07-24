@@ -206,6 +206,13 @@ A curated list of software testing conferences worldwide sorted by country - cli
             <td>October 6-8, 2026</td>
             <td>Balatoni út 2/a, B épület 1, Budapest, Hungary</td>
         </tr>
+        <tr>
+            <td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/es.svg" width="20px" height="20px"/>&nbsp;Spain</td>
+            <td>1</td>
+            <td><a href="https://seleniumconf.com/" target="_blank">SeleniumConf</a></td>
+            <td>May 6-8, 2026</td>
+            <td>Edificio Veles e Vents La Marina de València, Valencia, Spain</td>
+        </tr>
     </tbody>
 </table>
 
