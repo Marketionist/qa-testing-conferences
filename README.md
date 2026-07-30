@@ -213,6 +213,13 @@ A curated list of software testing conferences worldwide sorted by country - cli
             <td>May 6-8, 2026</td>
             <td>Edificio Veles e Vents La Marina de València, Valencia, Spain</td>
         </tr>
+        <tr>
+            <td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/br.svg" width="20px" height="20px"/>&nbsp;Brazil</td>
+            <td>1</td>
+            <td><a href="https://conf.researchr.org/home/icse-2026" target="_blank">International Conference on Software Engineering (ICSE)</a></td>
+            <td>April 12-18, 2026</td>
+            <td>Windsor Barra Hotel, Rio de Janeiro, Brazil</td>
+        </tr>
     </tbody>
 </table>
 
