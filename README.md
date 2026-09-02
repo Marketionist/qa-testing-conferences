@@ -110,11 +110,17 @@ A curated list of software testing conferences worldwide sorted by country - cli
             <td>Gooiland, Hilversum, Netherlands</td>
         </tr>
         <tr>
-            <td><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/de.svg" width="20px" height="20px"/>&nbsp;Germany</td>
+            <td rowspan="2"><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/de.svg" width="20px" height="20px"/>&nbsp;Germany</td>
             <td>1</td>
             <td><a href="https://agiletestingdays.com/" target="_blank">Agile Testing Days</a></td>
             <td>November 24-27, 2025</td>
             <td>Jägerallee 20, Potsdam, Germany</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td><a href="https://www.software-quality-days.com/en/" target="_blank">International Software Quality Days</a></td>
+            <td>June 16-17, 2027</td>
+            <td>Munich, Germany</td>
         </tr>
         <tr>
             <td rowspan="3"><img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/1x1/gb.svg" width="20px" height="20px"/>&nbsp;UK</td>
